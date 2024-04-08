@@ -1,5 +1,6 @@
 # burger_php
-BurgerOrderingSystem
+UECS2194 - Web Application Development
+Burger Ordering Website
 
 Usage:
 This project is built using the Bootstrap framework and is already included in the project files. To run the website, you will need to create the necessary database and tables.
